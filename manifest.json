@@ -1,7 +1,8 @@
 {
     "name": "PWA test",
     "short_name": "PWATEST",
-    "start_url": "/?home=true",
+    "id": "/PWATEST/",
+    "start_url": "/PWATEST/",
     "theme_color": "#000000",
     "icons": [
         {
