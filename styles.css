@@ -9,6 +9,7 @@ div{
     margin-top: 20px;
     background-color: aquamarine;
     height: 60px;
+    touch-action: manipulation;
 }
 
 #counter{
