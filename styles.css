@@ -1,0 +1,16 @@
+div{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.button{
+    margin-top: 20px;
+    background-color: aquamarine;
+    height: 60px;
+}
+
+#counter{
+    font-size: xx-large;
+}
